@@ -23,6 +23,6 @@ There are many open source alternatives to build virtual reality application. On
   - Tomcat: http://androidsrc.net/installing-tomcat8-raspberry-pi-3/ 
   - HFS: http://www.rejetto.com/hfs/ or any other server.
 
-# Player tested on two browsers
+# Tested on two browsers
   - Opera One version: 126.0.5750.59
   - Google Chrome version: 140.0.7339.128
